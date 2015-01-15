@@ -1,0 +1,4 @@
+[alias]
+    dock = clone
+    sale = push
+    unload = pull
