@@ -7,3 +7,4 @@
     ledger = log --graph --oneline --decorate
     hijack = clone
     aarg = rebase -i
+    rem = merge

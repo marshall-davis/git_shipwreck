@@ -25,6 +25,9 @@ Aliases `log` to view the ship's course.
 
 Includes `--graph` to ensure it looks like a course, and `--online --decorate` because those are just useful.
 
+### Ram
+Aliases `merge` to slam your decks together.
+
 ### Sail
 Aliases `push` to have your code set sail on the deep blue ocean of the internet.
 
