@@ -45,8 +45,8 @@ Aliases `pull` to unload a cargo bay into your port.
   <dd>A branch.</dd>
   <dt>Course</dt>
   <dd>The history of the repository.</dd>
-  <dd>Deck</dd>
-  <dt>A branch.</dt>
+  <dt>Deck</dt>
+  <dd>A branch.</dd>
   <dt>Port</dt>
   <dd>A directory.</dd>
   <dt>Ship</dt>
