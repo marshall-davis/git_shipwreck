@@ -1,8 +1,8 @@
 [alias]
-    dock = clone
     sale = push
     unload = pull
     bay = branch
     stow = commit
     smuggle = stash
     ledger = log --graph --oneline --decorate
+    hijack = clone
