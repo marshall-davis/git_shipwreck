@@ -2,3 +2,5 @@
     dock = clone
     sale = push
     unload = pull
+    bay = branch
+    stow = commit

@@ -9,17 +9,25 @@ A pirate themed set of Git aliases to add a little saltiness to your project.
 
 ## Commands
 
+### Bay
+Aliases `branch` to manage the ship's cargo bays.
+
 ### Dock
 Aliases `clone` to dock any ship.
 
 ### Sail
 Aliases `push` to have your code set sail on the deep blue ocean of the internet.
 
+### Stow
+Aliases `commit` to stow your cargo.
+
 ### Unload
 Aliases `pull` to unload a cargo bay into your port.
 
 ## Glossary
 <dl>
+  <dt>Cargo</dt>
+  <dd>The staging index.</dd>
   <dt>Cargo Bay</dt>
   <dd>A branch.</dd>
   <dt>Port</dt>
