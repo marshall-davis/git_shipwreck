@@ -27,6 +27,10 @@ Aliases `commit` to stow your cargo.
 ### Unload
 Aliases `pull` to unload a cargo bay into your port.
 
+### Ledger
+Aliases `log` to view the ship's course.
+Includes `--graph` to ensure it looks like a course, and `--online --decorate` because those are just useful.
+
 ## Glossary
 <dl>
   <dt>Cargo</dt>

@@ -5,3 +5,4 @@
     bay = branch
     stow = commit
     smuggle = stash
+    ledger = log --graph --oneline --decorate
