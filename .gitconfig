@@ -6,3 +6,4 @@
     smuggle = stash
     ledger = log --graph --oneline --decorate
     hijack = clone
+    aarg = rebase -i

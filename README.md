@@ -8,6 +8,9 @@ A pirate themed set of Git aliases to add a little saltiness to your project.
 
 ## Commands
 
+### Aarg
+Aliases `rebase -i` to declare frustration with your course.
+
 ### Bay
 Aliases `branch` to manage the ship's decks.
 
@@ -40,6 +43,8 @@ Aliases `pull` to unload a cargo bay into your port.
   <dd>The working directory.</dd>
   <dt>Cargo Bay</dt>
   <dd>A branch.</dd>
+  <dd>Course</dd>
+  <dt>The history of the repository.</dt>
   <dd>Deck</dd>
   <dt>A branch.</dt>
   <dt>Port</dt>
