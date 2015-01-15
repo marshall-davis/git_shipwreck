@@ -2,9 +2,8 @@
 A pirate themed set of Git aliases to add a little saltiness to your project.
 
 ## Installation
-* Copy the `.gitconfig` file to your `~/` directory.
-  * Or better yet _combine_ it with your existing `.gitconfig`.
-  * Script for this coming _soon_.
+* `cd` into the `git_shipwreck` directory.
+* `./install`
 * Enjoy!
 
 ## Commands
