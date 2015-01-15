@@ -41,8 +41,6 @@ Aliases `pull` to unload a cargo bay into your port.
 <dl>
   <dt>Cargo</dt>
   <dd>The working directory.</dd>
-  <dt>Cargo Bay</dt>
-  <dd>A branch.</dd>
   <dt>Course</dt>
   <dd>The history of the repository.</dd>
   <dt>Deck</dt>
