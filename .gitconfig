@@ -4,3 +4,4 @@
     unload = pull
     bay = branch
     stow = commit
+    smuggle = stash
