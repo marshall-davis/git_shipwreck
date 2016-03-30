@@ -3,7 +3,7 @@
     unload = pull
     bay = branch
     stow = commit
-    smuggle = stash
+    hoard = stash
     ledger = log --graph --oneline --decorate
     hijack = clone
     aarg = rebase -i
