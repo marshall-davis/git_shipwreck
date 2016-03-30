@@ -31,8 +31,8 @@ Aliases `merge` to slam your decks together.
 ### Sail
 Aliases `push` to have your code set sail on the deep blue ocean of the internet.
 
-## Smuggle
-Aliases `stash` to smuggle away cargo.
+## Hoard
+Aliases `stash` to hoard away ye precious treasure
 
 ### Stow
 Aliases `commit` to stow your cargo.
